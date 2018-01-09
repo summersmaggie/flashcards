@@ -1,0 +1,13 @@
+p.back1 {
+  display: none;
+}
+
+p.back2 {
+  display: none;
+}
+
+.col-md-3 {
+  border: solid 1px;
+  padding: 10px;
+  min-height: 200px;
+}
